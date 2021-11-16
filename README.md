@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nathan Smith (@Celibral)
+- 👀 I’m interested in data science, machine learning, deep learning
+- 🌱 I’m currently doing my masters in coputer science
+- 📫 You can reach me at smithnathan767@gmail.com
